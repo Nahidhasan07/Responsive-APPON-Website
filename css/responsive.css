@@ -1,0 +1,147 @@
+
+@media(max-width:767px){
+    
+    .navbar-light .navbar-brand{
+        width: 60%
+    }
+    .navbar button{
+        background-color: #fff
+    }
+    .banner_text{
+        width: 100%;
+        padding: 0 15px;
+    }
+    .banner_text h3{
+        font-size: 23px;
+    }
+    .banner_text a{
+        margin-left: 0;
+        margin-top: 25px;
+    }
+    .banner_text i{
+        padding-left: 5px;
+    }
+    .banner_text a h4{
+        padding-right: 4px;
+    }
+    .banner_text a h4 span{
+        font-size: 16px;
+    }
+    .slick-dots{
+        width: 100%;
+        right: 0;
+        left: 50%;
+        transform: translate(-50%, 0);
+        top: 80%;
+        
+    }
+    .slick-dots li{
+        display: inline-block
+    }
+/*    about us */
+    .about_us h2{
+        padding-top: 50px;
+    }
+    .for-all-header h2{
+        font-size: 20px;
+    }
+    .nav-pills a h4{
+        display: none
+    }
+    .nav-pills{
+        flex-direction: row !important
+    }
+    .nav-pills .nav-link{
+        margin-right: 0;
+        padding: 4px;
+        border-style: none
+    }
+    .nav-pills .nav-link:hover,
+    .nav-pills .nav-link.active{
+        border-style: none
+    }
+    .tab-content .tab-pane .col-md-6 img{
+        text-align: center
+    }
+    .screen-slider .col{
+        text-align: center
+    }
+    .screen-slider .col img{
+        display: inline-block
+    }
+    #screenshoot .slick-dots, .client-slider .slick-dots{
+        width: 100%
+    }
+    .full-video-bg{
+        padding: 100px 0
+    }
+    .plan-a{
+        margin-bottom: 50px;
+    }
+    .fedback_main{
+        padding: 10px
+    }
+    .fedback-cont p{
+        font-size: 14px;
+    }
+    #fotter i{
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+    }
+    .mobile-img-cont{
+        text-align: center!important
+    }
+    .mobile-img-cont h2{
+        padding-top: 0;
+    }
+    .feawters{
+        padding-bottom: 50px
+    }
+    #v-pills-tab{
+        display: inline-block
+    }
+    .feawters .col-12{
+        text-align: center
+    }
+}
+@media(min-width:576px) and (max-width:767px){
+    
+    
+    
+}
+@media(min-width:768px) and (max-width:991px){
+    .plan-a{
+        margin-bottom: 50px;
+    }
+    .screen-shot{
+        padding-top: 0;
+    }
+    .nav-pills a h4{
+        font-size: 12px;
+        padding-left: 0;
+        padding-right: 0;
+        margin-top: 10px;
+    }
+    .nav-pills i{
+        font-size: 25px;
+    }
+    .nav-pills a h4 span{
+        font-size: 10px;
+    }
+    .screen-slider .col{
+        text-align: center
+    }
+    
+    
+}
+@media(min-width:992px) and (max-width:1199px){
+    
+    
+    
+}
+@media(min-width:1200px){
+    
+    
+    
+}
